@@ -1,0 +1,46 @@
+ /* Add your CSS styling here */
+ body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+.container {
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+}
+input[type="text"] {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #45a049;
+}
+.message {
+    margin-top: 20px;
+    font-size: 1.2em;
+}
+
+.green-border {
+    border: 2px solid green;
+ }
+    
+    .red-border { 
+        border: 2px solid red;
+    }
+    
+    .green-text {
+        color: green;
+    }
+    
+    .red-text {
+        color: red;
+    }
+    
